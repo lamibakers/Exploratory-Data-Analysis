@@ -1,4 +1,4 @@
-Exploratory Data Analysis.
+EXPLORATORY DATA ANALYSIS.
 
 Data Source - Tips Dataset in seaborn
 
