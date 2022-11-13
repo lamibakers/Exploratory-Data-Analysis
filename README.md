@@ -2,16 +2,18 @@ EXPLORATORY DATA ANALYSIS.
 
 Data Source - Tips Dataset in seaborn
 
-Objective - Insight on trends of tips gotten by waiters 
+Objective - Insight into trends of tips gotten by waiters.
 
-Tip in-relation to total bill of the customer.   
+********** METRICS OF FOCUS **********
 
-Sex of customers to tip gotten from customer. 
+Tip VS Total bill of the customer [ Correlation between amount customer bill and tip given by the customer ]
 
-Tip to weither a customer is a smoker or not. 
+Sex VS Tip [ Male or Female, which gives more tips ] 
 
-Tip in-relation to the day of the week. 
+Tip VS Smoker [ Tips from customer who are smokers and those that do not smoke ]
 
-Time of day to tip.
+Tip VS Day [ Distribution of tips accross the days of the week ]
 
-Tips in-relation to size(Number)
+Time VS Tip  [ Distribution of tips accross the time of the day ]
+
+Size VS Tip [ Number of customer serviced on the table in relation to the tip gotten ]
