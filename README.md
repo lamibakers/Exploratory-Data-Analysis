@@ -12,8 +12,8 @@ Sex VS Tip [ Male or Female, which gives more tips ]
 
 Tip VS Smoker [ Tips from customer who are smokers and those that do not smoke ]
 
-Tip VS Day [ Distribution of tips accross the days of the week ]
+Tip VS Day [ Distribution of tips across the days of the week ]
 
-Time VS Tip  [ Distribution of tips accross the time of the day ]
+Time VS Tip  [ Distribution of tips across the time of the day ]
 
 Size VS Tip [ Number of customer serviced on the table in relation to the tip gotten ]
